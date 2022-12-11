@@ -8,7 +8,10 @@ In this project I created an Active Directory in a home lab environment  using o
 * Powershell script to auto regenerate users for testing
 * A default gateway with access to the internet.
 
+Note: This procedure assumes that you are familiar with DHCP, DC, Network, VM, IP address, Windows Network, AD users account configuration.
+
 ##Step By Step Proecdure:
+![Blueprint](https://github.com/sanfofana/ActiveDirectoryLab/blob/main/AD_PROJECT.png)
 * Download VirtualBox
 * Download windows
 * Create Our Virtual Machines
