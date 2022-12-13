@@ -13,7 +13,7 @@ Note: This procedure assumes that you are familiar with DHCP, DC, Network, VM, I
 ##Step By Step Proecdure:
 ![Blueprint](https://github.com/sanfofana/ActiveDirectoryLab/blob/main/AD_PROJECT.png)
 * Download VirtualBox
-* Download windows
+* Download windows OS
 * Create Our Virtual Machines
 * insert Guest Additions Cd Image
 * Set up the IP addressing
@@ -25,8 +25,8 @@ Note: This procedure assumes that you are familiar with DHCP, DC, Network, VM, I
 * Create a new user
 * Make a Domain Admin
 * Set Routing and Domain Access
-* Instal Network Address Translation
-* Set up DHCP on your domain controller
+* Instal Network Address Translation (NAT)
+* Set up DHCP on your domain controller (DC)
 * DHCP Configuration 
 * Set up your lease during on the DHCP
 * Configure DHCP options
