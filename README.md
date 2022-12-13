@@ -1,4 +1,4 @@
-# Active_Directory_Lab
+# Active Directory Lab
 In this project I created an Active Directory in a home lab environment  using oracle Virtual Box. Configuring and realizing this lab defintely help increase knowledge on active Directory and Microsoft windows networking works.
 
 ## Requirement for this project:
